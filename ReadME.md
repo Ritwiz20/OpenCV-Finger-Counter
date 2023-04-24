@@ -12,7 +12,6 @@ This program requires the following libraries:
 ### Usage - 
 To install the required modules, you can use pip by running the following command:
 
-Copy code
 pip install -r requirements.txt
 
 ### Execute 
@@ -20,6 +19,7 @@ pip install -r requirements.txt
 To run the script, simply navigate to the directory where the script is saved and run the following command:
 
 python filename.py
+(If forked, use python app.py)
 
 
 While the script is running, you will see a window displaying the video captured from the camera. The script will exit if you press the ESC key.
